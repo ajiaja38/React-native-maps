@@ -66,7 +66,7 @@ export default function Index() {
             fontSize: 20,
           }}
         >
-          React Native Maps Handson
+          React Native Maps
         </Text>
         <View style={style.container}>
           <View style={style.containerMap}>
