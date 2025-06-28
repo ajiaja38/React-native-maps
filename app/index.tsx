@@ -89,7 +89,7 @@ export default function Index() {
               <Marker
                 coordinate={{ latitude: -6.2, longitude: 106.816666 }}
                 title='Jakarta'
-                description='Marker in Jakarta'
+                description='Marker in Here'
               />
               {coordinates.map((coor, index: number) => (
                 <Marker
