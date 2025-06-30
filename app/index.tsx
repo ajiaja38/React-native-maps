@@ -99,7 +99,7 @@ export default function Index() {
                     longitude: coor.longitude,
                   }}
                   title='Jakarta'
-                  description={`Marker in Jakarta ${index + 1}`}
+                  description={`Marker in here ${index + 1}`}
                 />
               ))}
               {coordinates.length ? (
